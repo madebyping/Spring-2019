@@ -1,0 +1,58 @@
+Margins:
+	
+	1.5cm from each edge
+
+Fonts:
+
+	- Title, Author - Georgia
+	- Picture Title/Credits - Times New Roman
+	- Paragraphs - Times New Roman
+	- Section, Footer, PgNo.s - Roboto
+
+Font size:
+	
+	- Title - 34
+	- Author - 14
+	- Drop Caps - 28
+	- Paragraph - 10 (TNR), Color - Black
+	- Footer - 9, Color - #7d7d7d
+	- Image Credits/Title - 10, Color - #7d7d7d
+
+Footer Format:
+	
+	Ping! Month Year
+
+Section Tab Format:
+	
+	- Horizontal Guides for Section tabs(Vertical distance):
+		- 0.593in 
+		- 1.757in
+		- 3.54in
+		- 5.806in
+		- 8.478in
+		- 9.954in
+		- 11.244in
+
+	- Width of tab: 0.9cm (60% of 1.5cm)
+
+	- Colors(from top to bottom):
+
+		- #155d5c
+		- #24807f
+		- #1d7791
+		- #2e95b4
+		- #3ebbdc
+		- #5cd3f2
+	
+	- Font size - 17
+	- Order:
+		- Campus
+		- Perspective
+		- Film Syndrome
+		- Eye to the Future
+		- Pen Stand
+		- Humour
+
+Article Ending:
+	
+	- Filled black square after last line
